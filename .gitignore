@@ -12,3 +12,5 @@ process.log
 statistics.py
 .claude
 paper/
+/downloads
+/data
